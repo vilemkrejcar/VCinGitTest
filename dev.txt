@@ -1,1 +1,3 @@
+Conflict resolved.
 This is a first line
+
