@@ -1,0 +1,2 @@
+# VCinGitTest
+Seminar repository
